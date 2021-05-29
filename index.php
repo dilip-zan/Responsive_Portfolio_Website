@@ -12,8 +12,8 @@ if (isset($_POST['contact_btn'])) {
 function contact()
 {
     if (isset($_POST["contact_btn"])) {
-
-      $to="zanzerdawadi123@gmail.com";
+    // Email Functionality
+      $to="Your Gmail id";
       $name = $_POST["name"];
       $email = $_POST["email"];
       $phone = $_POST["phone"];
@@ -21,11 +21,11 @@ function contact()
       
       $getchoosebaby = $_POST["choosebaby"];
       $getchoosekilo = $_POST["choosekilo"];
-      // Email Functionality
+      
       
       
     
-      $subject = "Received the message from SIMRAN BUNGUR FARM";
+      $subject = "Received the message from #SIMRAN BUNGUR FARM"; //you can write your anything
     
       $body = "Client has order following thing:";
       $body .="\r\n";
@@ -42,7 +42,7 @@ function contact()
       $body.="\r\nCustomer Fish: ". $getchoosekilo;
 
         
-      $headers = "From: zanzerdawadi123@gmail.com";
+      $headers = "From: Your Gmail ID";
       if(mail($to, $subject, $body ,$headers)){
             Redirect_to("thanks.html");
         } else {
