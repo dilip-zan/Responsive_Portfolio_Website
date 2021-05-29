@@ -166,7 +166,7 @@ function contact()
                   class="btn bookhover btn-outline-success btn-rounded waves-effect font-weight-bold btn-sm"
                   href="tel:+9779844947424"
                   data-offset="90"
-                  >9844947424</a
+                  >9844947298634</a
                 >
               </li>
             </ul>
@@ -1268,7 +1268,7 @@ function contact()
                     <p>
                       <i class="fas fa-quote-left" ></i> OWNER OF SIMRAN BANGUR FARM <br>    <a
                   class="btn bookhover btn-outline-success btn-rounded waves-effect font-weight-bold btn-sm"
-                  href="tel:+9779845563955"
+                  href="tel:+9779845562243955"
                   data-offset="90"
                   >CALL: 98455...</a>
                     </p>
@@ -1300,7 +1300,7 @@ function contact()
                     <p>
                       <i class="fas fa-quote-left"></i> Manage all the finance<br> <a
                   class="btn bookhover btn-outline-success btn-rounded waves-effect font-weight-bold btn-sm"
-                  href="tel:+9779844947424"
+                  href="tel:+9779844947332424"
                   data-offset="90"
                   >CALL: 9844...</a>
                     </p>
@@ -1333,7 +1333,7 @@ function contact()
                     <p>
                       <i class="fas fa-quote-left"></i> Provide the facilty for Pig and Fish <br>  <a
                   class="btn bookhover btn-outline-success btn-rounded waves-effect font-weight-bold btn-sm"
-                  href="tel:+9779845054641"
+                  href="tel:+97798450544111"
                   data-offset="90"
                   >Phone: 9845...</a>
                     </p>
@@ -1620,7 +1620,7 @@ function contact()
 
 
             <div class="px-5">
-              <form action="https://bit.ly/3fx83B0" method="POST" class="input-group">
+              <form action="You can link your youtube channel id or anything" method="POST" class="input-group">
                 <ul class="list-unstyled newsletter">
                   <li class="">
                     <div class="md-form md-outline form-lg mb-0">
