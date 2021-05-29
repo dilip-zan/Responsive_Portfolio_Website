@@ -1,0 +1,140 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+.star {
+  color: #ffd700;
+}
+
+.sbbtn {
+  background-color: #ff6d6d;
+  color: white;
+}
+
+.sbbtn:hover {
+  background-color: red;
+  color: white;
+}
+
+.navhover:hover {
+  text-decoration: underline !important;
+  color: black !important;
+}
+.footercolor {
+  background-color: #162950 !important;
+}
+
+.fotterhover:hover {
+  border-bottom: 1px solid white !important;
+  color: gray;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 1000px;
+  }
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 650px;
+  }
+}
+
+.bookhover:hover {
+  background-color: #00c851 !important;
+  color: #ffffff !important;
+}
+
+.bookhover2:hover {
+  background-color: #00c851 !important;
+  color: #ffffff !important;
+  border: #00c851 !important ;
+}
+
+.bookhover2 {
+  background-color: #00c851 !important;
+  color: #ffffff !important;
+  border: #00c851 !important ;
+}
+
+.logotext {
+  color: #00c851 !important;
+}
+
+.textcolor {
+  color: #757575 !important;
+}
+
+.top-nav-collapse {
+  background: #fafafa !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: #fafafa !important;
+}
+
+@media (min-width: 961px) {
+  .star {
+    font-size: 45px !important;
+    color: #ffd700 !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #fafafa !important;
+  }
+}
+
+.rgba-gradient {
+  background: linear-gradient(
+    45deg,
+    rgba(0, 0, 0, 0.7),
+    rgba(72, 15, 144, 0.4) 100%
+  );
+}
+
+.card {
+  background-color: rgba(126, 123, 215, 0.2);
+}
+
+.md-form label {
+  color: #ffffff;
+}
+
+h6 {
+  line-height: 1.7;
+}
+
+@media (min-width: 1025px) {
+  .navleft {
+    margin-left: 8%;
+  }
+  .star {
+    font-size: 45px !important;
+    color: #ffd700 !important;
+  }
+}
+
+@media (min-width: 600px) {
+  .star {
+    font-size: 20px !important;
+    color: #ffd700 !important;
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  .star {
+    font-size: 28px !important;
+    color: #ffd700 !important;
+  }
+}
